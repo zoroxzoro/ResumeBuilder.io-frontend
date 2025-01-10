@@ -44,7 +44,7 @@ function Home() {
                 href="/dashboard"
                 className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary hover:bg-primary focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
               >
-                Get Started
+                Click on Get Started
                 <svg
                   className="ml-2 -mr-1 w-5 h-5"
                   fill="currentColor"
